@@ -1,5 +1,8 @@
-                      ## Hi there 👋, I'm Mohana Maddi
+![1_YwnJOzF01swQ8A5WTEizbw](https://github.com/user-attachments/assets/e2980ec0-9a1c-4194-86e6-6ff347d5c246)
+
+**Hi 👋, I'm Mohana Maddi**
 
 I'm a passionate **Software Engineer** with 2 years of experience in MuleSoft development and cloud technologies. Constantly striving for growth and excellence.
 
 📍 **Location**: Saint Louis, MO, USA 
+
