@@ -28,5 +28,25 @@ I'm a passionate **Software Engineer** with 2 years of experience in MuleSoft de
 ### ⚡ Fun fact 
 I love automating tasks, and exploring new technologies. Also, I'm a foodie who enjoys trying different cuisines! 😃
 
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/Mulesoft-blue?style=flat&logo=mulesoft">
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java">
+  <img src="https://img.shields.io/badge/REST-API-lightgrey?style=flat&logo=postman">
+  <img src="https://img.shields.io/badge/SOAP-blue?style=flat&logo=soapui">
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql">
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/Jenkins-red?style=flat&logo=jenkins">
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
+
 
 
