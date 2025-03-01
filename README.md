@@ -30,16 +30,14 @@ I love automating tasks, and exploring new technologies. Also, I'm a foodie who 
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <b>💻 Programming Languages:</b> C, Java, Python, C++, SQL, XML  
-  <b>🌐 Web Technologies:</b> HTML, CSS, JavaScript, TypeScript  
-  <b>🛠 MuleSoft:</b> Anypoint Studio, Anypoint Platform, Mule ESB, API Designer, API Manager  
-  <b>🚀 Frameworks & Tools:</b> Postman, REST APIs, React.js, JSON, Node.js, Spring Boot, Bootstrap  
-  <b>📩 Messaging:</b> ActiveMQ, RabbitMQ, Kafka  
-  <b>🗄 Databases:</b> MySQL, Oracle, PostgreSQL, MongoDB  
-  <b>🔧 CI/CD:</b> Jenkins, Maven  
-  <b>☁ Cloud Platforms:</b> Anypoint CloudHub, Azure, AWS (EC2, S3, IAM, Lambda, CloudWatch, DynamoDB)  
-  <b>📌 Version Control & Dev Tools:</b> Jira, GitHub, Linux, VS Code, IntelliJ, Docker, Git  
-  <b>🔐 Security:</b> OAuth, JWT, Basic Authentication  
+  <img src="https://img.shields.io/badge/Mulesoft-blue?style=flat&logo=mulesoft">
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java">
+  <img src="https://img.shields.io/badge/REST-API-lightgrey?style=flat&logo=postman">
+  <img src="https://img.shields.io/badge/SOAP-blue?style=flat&logo=soapui">
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql">
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Git-orange?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/Jenkins-red?style=flat&logo=jenkins">
 </p>
 
 
