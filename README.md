@@ -9,7 +9,7 @@ I'm a passionate **Software Engineer** with 2 years of experience in MuleSoft de
 
 📍 **Location**: Saint Louis, MO, USA 
 🎓 **Education**: Master's in Information Systems at Saint Louis University  
-🌱 **Currently Learning**: Advanced API management, Cloud Integrations, and Data Analytics  
+🌱 **Currently Learning**: Advanced API management, Cloud Integrations, and Data Analytics, PowerBI  
 
 ### 🔍 I'm currently working on  
 - Enhancing my MuleSoft expertise with real-world projects.  
