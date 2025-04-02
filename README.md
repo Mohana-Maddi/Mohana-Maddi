@@ -40,5 +40,12 @@ I love automating tasks, and exploring new technologies. Also, I'm a foodie who 
   <img src="https://img.shields.io/badge/Jenkins-red?style=flat&logo=jenkins">
 </p>
 
-![Mohana Maddi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+
+![Mohana Maddi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohana-Maddi&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohana-Maddi&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohana-Maddi&layout=compact&theme=radical)
+
 
