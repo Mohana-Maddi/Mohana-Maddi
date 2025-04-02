@@ -46,6 +46,5 @@ I love automating tasks, and exploring new technologies. Also, I'm a foodie who 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohana-Maddi&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohana-Maddi&layout=compact&theme=radical)
 
 
