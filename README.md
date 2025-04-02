@@ -48,7 +48,8 @@ I love automating tasks, and exploring new technologies. Also, I'm a foodie who 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohana-Maddi&theme=radical)
 
 
-![GitHub Actions](https://img.shields.io/github/workflow/status/<username>/<repository>/<workflow_name>?label=Build&style=flat)
+![Build Status](https://img.shields.io/github/workflow/status/MohanaMaddi/<repository-name>/CI?label=Build&style=flat)
+
 
 
 
